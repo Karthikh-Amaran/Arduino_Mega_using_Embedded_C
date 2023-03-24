@@ -9,4 +9,5 @@ My learning from this project were,
 2. What is the use of Register in a MCU.
 3. How we use Datsheet and register to program the chip without using Abstractions.
 
-*THE ENTIRE PROJECT WAS DONE ONLY USING EMBEDDED C WITHOUT USING ARDUINO IDE ABSTRACTION LANGUAGE*
+**THE ENTIRE PROJECT WAS DONE ONLY USING EMBEDDED C WITHOUT USING ARDUINO IDE ABSTRACTION LANGUAGE**
+** I did this project in WOKWI Online Simulator platform. So I Have attached the links for those projects **

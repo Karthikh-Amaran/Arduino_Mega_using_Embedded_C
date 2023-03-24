@@ -1,1 +1,13 @@
-hi
+1. LED Exercises    = https://wokwi.com/projects/334255534172537426
+2. Switch Exercises = https://wokwi.com/projects/332610811669250642
+3. Keypad Exercises = https://wokwi.com/projects/335096401037886036
+4. Dot Matrix Exercises: 
+(i)   https://wokwi.com/projects/336616386305458772
+(ii)  https://wokwi.com/projects/336260244703281747
+5. LCD Exercises:
+(i)   https://wokwi.com/projects/335625097075229266
+(ii)  https://wokwi.com/projects/335688954389987922
+(iii) https://wokwi.com/projects/335798254880948819
+
+6. Basic Three Digit Addition:
+ https://wokwi.com/projects/335275543532405330

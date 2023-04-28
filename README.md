@@ -1,7 +1,7 @@
 # Arduino_Mega_using_Embedded_C
 
 This is a project done by me @Karthikh Amaran.
-As a beginner in the field of embedded systems I was really to learn about the registers of a Microcontroller.
+As a beginner in the field of embedded systems I was interested to learn about the registers of a Microcontroller.
 
 Being a beginner I chose to start learn about register from ARDUINO_MEGA (ATMEL AVR based) MicroController.4
 My learning from this project were,
